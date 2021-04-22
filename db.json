@@ -1,0 +1,46 @@
+{
+  "trabajos": [
+    {
+      "id": 78945,
+      "numeroTarjeta": 3579845,
+      "nombre": "Pablo Diego",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 75698,
+      "numeroTarjeta": 3578411,
+      "nombre": "Pablo Diego",
+      "estado": "Embosando"
+    },
+    {
+      "id": 12356,
+      "numeroTarjeta": 1957412,
+      "nombre": "Pablo Diego",
+      "estado": "Embosando"
+    },
+    {
+      "id": 46852,
+      "numeroTarjeta": 7536981,
+      "nombre": "Pablo Diego",
+      "estado": "Embosando"
+    },
+    {
+      "id": 68975,
+      "numeroTarjeta": 4659871,
+      "nombre": "Pablo Diego",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 13459,
+      "numeroTarjeta": 1236547,
+      "nombre": "Pablo Diego",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 13274,
+      "numeroTarjeta": 4689123,
+      "nombre": "Pablo Diego",
+      "estado": "Embosando"
+    }
+  ]
+}
