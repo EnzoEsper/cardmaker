@@ -1,45 +1,45 @@
 {
   "trabajos": [
     {
-      "id": 78945,
+      "id": 1,
       "numeroTarjeta": 3579845,
       "nombre": "Pablo Diego",
       "estado": "Pendiente"
     },
     {
-      "id": 75698,
+      "id": 2,
       "numeroTarjeta": 3578411,
-      "nombre": "Pablo Diego",
+      "nombre": "Jose Francisco",
       "estado": "Embosando"
     },
     {
-      "id": 12356,
+      "id": 3,
       "numeroTarjeta": 1957412,
-      "nombre": "Pablo Diego",
+      "nombre": "De Paula",
       "estado": "Embosando"
     },
     {
-      "id": 46852,
+      "id": 4,
       "numeroTarjeta": 7536981,
-      "nombre": "Pablo Diego",
+      "nombre": "Juan Nepomuceno",
       "estado": "Embosando"
     },
     {
-      "id": 68975,
+      "id": 5,
       "numeroTarjeta": 4659871,
-      "nombre": "Pablo Diego",
+      "nombre": "María de los Remedios",
       "estado": "Pendiente"
     },
     {
-      "id": 13459,
+      "id":6,
       "numeroTarjeta": 1236547,
-      "nombre": "Pablo Diego",
+      "nombre": "Cipriano de la Santísima Trinidad",
       "estado": "Pendiente"
     },
     {
-      "id": 13274,
+      "id": 7,
       "numeroTarjeta": 4689123,
-      "nombre": "Pablo Diego",
+      "nombre": "Ruiz y Picasso",
       "estado": "Embosando"
     }
   ]
